@@ -2,7 +2,7 @@
 [![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/sideline-eros.svg)](https://jcs-emacs.github.io/jcs-elpa/#/sideline-eros)
 
 # sideline-eros
-> Show EROS result in sideline
+> Show EROS result with sideline
 
 [![CI](https://github.com/emacs-sideline/sideline-eros/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-sideline/sideline-eros/actions/workflows/test.yml)
 
