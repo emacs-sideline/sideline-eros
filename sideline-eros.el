@@ -1,4 +1,4 @@
-;;; sideline-eros.el --- Show EROS result in sideline  -*- lexical-binding: t; -*-
+;;; sideline-eros.el --- Show EROS result with sideline  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2024  Shen, Jen-Chieh
 
@@ -26,7 +26,7 @@
 
 ;;; Commentary:
 ;;
-;; Show EROS result in sideline.
+;; Show EROS result with sideline.
 ;;
 
 ;;; Code:
@@ -35,7 +35,7 @@
 (require 'eros)
 
 (defgroup sideline-eros nil
-  "Show EROS result in sideline."
+  "Show EROS result with sideline."
   :prefix "sideline-eros-"
   :group 'tool
   :link '(url-link :tag "Repository" "https://github.com/emacs-sideline/sideline-eros"))
