@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "sideline-eros"
          "0.1.0"
          "Show EROS result in sideline")
